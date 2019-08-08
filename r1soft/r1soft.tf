@@ -14,7 +14,7 @@ resource "aws_instance" "r1soft"{
 
        }
        inline = [
-           ""
+           "yum install telnet -y"
        ]
    }
    
