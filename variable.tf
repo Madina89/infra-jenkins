@@ -4,7 +4,7 @@ variable  "Dep"{}
 variable "Env"{}
 variable "vpc"{}
 variable "ami"{}
-varibale "instance_type"{}
+variable "instance_type"{}
 variable "user"{}
 variable "zone_id"{}
 variable "domain"{}
