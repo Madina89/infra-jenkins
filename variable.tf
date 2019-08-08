@@ -1,6 +1,6 @@
 variable "Name"{}
 variable "Created_by"{}
-variable  "Dep"{}
+variable  "dev"{}
 variable "Env"{}
 variable "vpc"{}
 variable "ami"{}
