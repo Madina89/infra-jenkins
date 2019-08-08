@@ -1,7 +1,7 @@
 terraform {
     backend "s3"{
         region = "eu-west-1"
-    bucket = "jenkins-2019"
+    bucket = "madina-exec-april"
     key = "infra.state"   
     }
 }
