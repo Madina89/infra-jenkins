@@ -1,0 +1,11 @@
+variable "Name"{}
+variable "Created_by"{}
+variable  "Dep"{}
+variable "Env"{}
+variable "vpc"{}
+variable "ami"{}
+varibale "instance_type"{}
+variable "user"{}
+variable "zone_id"{}
+variable "domain"{}
+variable "record"{}
